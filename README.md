@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giovanni</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
-- 🌱 I’m currently learning **Next.js, TreeJs, Angular14**
-
 - 📫 How to reach me **giovannibernardi.dev@gmail.com**
 
 
